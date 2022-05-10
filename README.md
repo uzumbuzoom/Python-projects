@@ -9,6 +9,8 @@ Both codes are responsible for scraping details about 100 most popular people fr
 - the most popular films in which the actor starred, his/her most popular roles
 - number on the top list, his/her profession
 
+See the output.csv file.
+
 Beuatiful soup - just run file .py
 
 Scrapy- for the results of scrapy go to scrapy folder, first run step1.py file using command 
