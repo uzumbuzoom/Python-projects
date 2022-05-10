@@ -3,9 +3,9 @@
 A final project for Webscrapping labs (WNE UW)
 
 Both codes are responsible for scraping details about 100 most popular people from movie industry (source: movie database filmweb.pl) like:
--name
--birtplace, birthdate
--grade , number of opinions
+- name
+- birtplace, birthdate
+- grade , number of opinions
 - the most popular films in which the actor starred, his/her most popular roles
 - number on the top list, his/her profession
 
